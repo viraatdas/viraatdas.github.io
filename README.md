@@ -1,2 +1,3 @@
 # viraatdas.github.io
-My website!
+
+Development is done through the *development* branch. 
