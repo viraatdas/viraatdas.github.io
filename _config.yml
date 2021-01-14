@@ -83,7 +83,7 @@ author:
   name             : "Viraat Das"
   avatar           : "profile.jpg"
   bio              : "SDE @ Amazon | Purdue CS Alum \n Deep learning enthusiast"
-  location         : "West Virginia"
+  location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
