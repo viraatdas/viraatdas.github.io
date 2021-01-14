@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Viraat Das"
   avatar           : "profile.png"
-  bio              : "SDE @ Amazon | Purdue CS Alum \n Deep learning enthusiast"
+  bio              : "SDE @ Amazon | Purdue CS Alum | Deep learning enthusiast"
   location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : 
